@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vidya/Documents/nova_pharm_pv/models/mlruns/977582125064238114/588d47f490d44f0680beb72c0951efaf/artifacts
+end_time: 1782472713583
+entry_point_name: ''
+experiment_id: '977582125064238114'
+lifecycle_stage: active
+run_id: 588d47f490d44f0680beb72c0951efaf
+run_name: xgb_hybrid_tfidf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782472702118
+status: 3
+tags: []
+user_id: vidya

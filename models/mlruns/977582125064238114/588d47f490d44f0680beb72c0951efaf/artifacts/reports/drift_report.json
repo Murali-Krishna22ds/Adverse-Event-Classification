@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-06-26T10:43:27.399206Z",
+  "features": {
+    "severity_num": {
+      "ks_stat": 0.0208,
+      "p_value": 0.22958,
+      "drifted": false
+    },
+    "ae_risk": {
+      "ks_stat": 0.012,
+      "p_value": 0.86433,
+      "drifted": false
+    },
+    "priority_score": {
+      "ks_stat": 0.0138,
+      "p_value": 0.72787,
+      "drifted": false
+    },
+    "narrative_len": {
+      "ks_stat": 0.0196,
+      "p_value": 0.29208,
+      "drifted": false
+    }
+  },
+  "any_drift_detected": false
+}

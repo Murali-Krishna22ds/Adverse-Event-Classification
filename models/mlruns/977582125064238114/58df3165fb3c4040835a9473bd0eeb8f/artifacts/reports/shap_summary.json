@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-06-26T08:49:42.260057Z",
+  "client": "Nova Pharm, USA",
+  "model": "XGBClassifier",
+  "top_features": [
+    {
+      "rank": 1,
+      "feature": "rise",
+      "mean_abs_shap": 0.264173
+    },
+    {
+      "rank": 2,
+      "feature": "high",
+      "mean_abs_shap": 0.240163
+    },
+    {
+      "rank": 3,
+      "feature": "hand",
+      "mean_abs_shap": 0.232119
+    },
+    {
+      "rank": 4,
+      "feature": "through",
+      "mean_abs_shap": 0.212429
+    },
+    {
+      "rank": 5,
+      "feature": "yeah",
+      "mean_abs_shap": 0.208321
+    },
+    {
+      "rank": 6,
+      "feature": "level",
+      "mean_abs_shap": 0.196539
+    },
+    {
+      "rank": 7,
+      "feature": "defense",
+      "mean_abs_shap": 0.190553
+    },
+    {
+      "rank": 8,
+      "feature": "old",
+      "mean_abs_shap": 0.167984
+    },
+    {
+      "rank": 9,
+      "feature": "consumer",
+      "mean_abs_shap": 0.160471
+    },
+    {
+      "rank": 10,
+      "feature": "traditional",
+      "mean_abs_shap": 0.159463
+    },
+    {
+      "rank": 11,
+      "feature": "represent",
+      "mean_abs_shap": 0.159141
+    },
+    {
+      "rank": 12,
+      "feature": "road",
+      "mean_abs_shap": 0.151028
+    },
+    {
+      "rank": 13,
+      "feature": "couple",
+      "mean_abs_shap": 0.149958
+    },
+    {
+      "rank": 14,
+      "feature": "else",
+      "mean_abs_shap": 0.146474
+    },
+    {
+      "rank": 15,
+      "feature": "large",
+      "mean_abs_shap": 0.145497
+    },
+    {
+      "rank": 16,
+      "feature": "at",
+      "mean_abs_shap": 0.144515
+    },
+    {
+      "rank": 17,
+      "feature": "priority_score",
+      "mean_abs_shap": 0.143245
+    },
+    {
+      "rank": 18,
+      "feature": "person",
+      "mean_abs_shap": 0.143023
+    },
+    {
+      "rank": 19,
+      "feature": "office",
+      "mean_abs_shap": 0.142548
+    },
+    {
+      "rank": 20,
+      "feature": "opportunity",
+      "mean_abs_shap": 0.138363
+    }
+  ]
+}

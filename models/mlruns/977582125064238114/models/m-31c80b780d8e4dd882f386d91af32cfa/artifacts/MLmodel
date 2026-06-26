@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/vidya/Documents/nova_pharm_pv/models/mlruns/977582125064238114/models/m-31c80b780d8e4dd882f386d91af32cfa/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.14.1
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.3.0
+mlflow_version: 3.14.0
+model_id: m-31c80b780d8e4dd882f386d91af32cfa
+model_size_bytes: 814381
+model_uuid: m-31c80b780d8e4dd882f386d91af32cfa
+prompts: null
+run_id: 588d47f490d44f0680beb72c0951efaf
+utc_time_created: '2026-06-26 11:18:22.721131'

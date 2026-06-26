@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/vidya/Documents/nova_pharm_pv/models/mlruns/977582125064238114
+creation_time: 1782463782280
+effective_trace_archival_retention: null
+experiment_id: '977582125064238114'
+last_update_time: 1782463782280
+lifecycle_stage: active
+name: NovaPharm-PV-Classifier
+trace_location: null
+workspace: default

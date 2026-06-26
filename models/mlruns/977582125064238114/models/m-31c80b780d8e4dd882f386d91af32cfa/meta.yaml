@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vidya/Documents/nova_pharm_pv/models/mlruns/977582125064238114/models/m-31c80b780d8e4dd882f386d91af32cfa/artifacts
+creation_timestamp: 1782472702538
+experiment_id: '977582125064238114'
+last_updated_timestamp: 1782472713552
+model_id: m-31c80b780d8e4dd882f386d91af32cfa
+model_type: null
+name: model
+source_run_id: 588d47f490d44f0680beb72c0951efaf
+status: 2
+status_message: null
